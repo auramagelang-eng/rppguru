@@ -1,0 +1,6 @@
+{
+  "name": "RPP Auto Generator – SMK Negeri 2 Magelang",
+  "description": "Aplikasi Perencanaan Pembelajaran Mendalam / RPP Otomatis SMK Negeri 2 Magelang berbasis PROTA, Profil Pelajar, dan Model Pembelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
